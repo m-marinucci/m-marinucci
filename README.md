@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @m-marinucci
+- 👀 I’m interested in Artificial Intelligence , Quantum Computing.
+- 🌱 I’m currently learning Node Js, Express, React, JS, Css HTML
+- 💞️ I’m looking to collaborate on AI ACE
+- 📫 How to reach me: text me!
+
+<!---
+m-marinucci/m-marinucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
