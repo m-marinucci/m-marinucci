@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Massi
 - 👀 I’m interested in Data Science,  Artificial Intelligence , Quantum Computing.
 - 🌱 I’m currently learning Node Js, Express, React, JS, Css HTML
-- 💞️ I’m looking to collaborate on AI ACE
 - 📫 How to reach me: text me!
 
 <!---
